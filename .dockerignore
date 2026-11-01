@@ -1,0 +1,9 @@
+# production docker ignore
+node_modules
+.next
+.git
+.gitignore
+docs
+*.docx
+*.pdf
+README.md
