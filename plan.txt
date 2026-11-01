@@ -1,0 +1,7 @@
+crate a website with next js    
+    website must be bangla and english 
+    add google map for election area with dynamic information 
+    seo friendly content for google search engnine
+create a  biography for wikipeda 
+create a document for google site 
+make seo friendly 
